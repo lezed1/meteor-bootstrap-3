@@ -1,7 +1,7 @@
-meteor-bootstrap-3
+meteor-bootswatch-slate-3
 ==================
-bootstrap 3.x packaged for meteor
+bootswatch-slate 3.x packaged for meteor
 
 
 ### to install
-mrt add bootstrap-3
+mrt add bootswatch-slate-3
