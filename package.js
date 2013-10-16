@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Provides bootstrap 3."
+  summary: "Provides bootswatch-slate 3."
 });
 
 Package.on_use(function (api) {
