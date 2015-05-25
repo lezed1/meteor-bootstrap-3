@@ -1,0 +1,11 @@
+Hey Zander,
+
+Quick favor: can you please remove an old package you publish to Atmosphere? Just run
+
+    meteor admin set-unmigrated bootswatch-slate-3
+
+(we now have [official Bootswatch packages](https://atmospherejs.com/bootswatch))
+
+Thanks!
+Dan
+Atmosphere curator
